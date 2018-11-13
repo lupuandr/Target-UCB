@@ -1,6 +1,6 @@
 # Human bandit dataset
 
-The folder contains human player data for a two-armed bandit setting. All runs are composed of 100 episodes (1 arm selection followed by 1 reward received).
+The two folders contain human player data for a two-armed bandit setting. All runs are composed of 100 episodes (1 arm selection followed by 1 reward received).
 
 1. The "single_humans" folder contains data for 4 individual human players on a two armed bandit setting with arms A and B and the following specifications:
 	- Both arms have static Bernoulli distributions.
